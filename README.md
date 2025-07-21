@@ -19,3 +19,4 @@ A simple and interactive terminal-based game where the player tries to guess a r
 javac GuessTheNumber.java
 java GuessTheNumber
 
+![Game Screenshot](./screenshot.png)
