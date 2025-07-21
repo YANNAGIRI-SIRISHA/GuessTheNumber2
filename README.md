@@ -15,4 +15,7 @@ A simple and interactive terminal-based game where the player tries to guess a r
 
 - Language: Java
 - IDE: Any (VS Code, PyCharm, etc.)
+## How to Run
+javac GuessTheNumber.java
+java GuessTheNumber
 
