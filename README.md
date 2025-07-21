@@ -17,6 +17,7 @@ A simple and interactive terminal-based game where the player tries to guess a r
 - IDE: Any (VS Code, PyCharm, etc.)
 ## How to Run
 javac GuessTheNumber.java
+
 java GuessTheNumber
 
 ![Game Screenshot](./screenshot.png)
